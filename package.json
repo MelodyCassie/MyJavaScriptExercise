@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "javascripttextbookexercises",
+  "version": "1.0.0",
+  "main": "ChessBoard.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
